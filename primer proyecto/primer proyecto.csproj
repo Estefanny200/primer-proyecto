@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\User\OneDrive\Documentos\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\User\OneDrive\Escritorio\tercer boostrap\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
